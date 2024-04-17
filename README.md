@@ -1,50 +1,74 @@
-   ![MenuScreen2](https://user-images.githubusercontent.com/108279441/234294491-13a4b9d5-666f-4eba-a33d-08ef8fce4b80.png)
+<div align="center">
+  <h1 style="font-size: 24px;">Betty's Cloud Dodger</h1>
+  <img src="https://user-images.githubusercontent.com/108279441/234294491-13a4b9d5-666f-4eba-a33d-08ef8fce4b80.png" alt="MenuScreen2">
+</div>
 
-# Betty's Cloud Dodger
+<div align="center">
+  <p><strong>Betty's Cloud Dodger</strong> is an interactive and engaging game built using Pygame, designed to test reflexes and decision-making speed. The player navigates Betty through increasingly difficult phases, dodging clouds and collecting seahorses to boost health. This game is perfect for anyone looking for a fun challenge and a test of their gaming skills.</p>
+</div>
 
-Welcome to Betty's Cloud Dodger, a challenging and engaging game designed in Pygame. This game tests your reflexes and quick thinking as you navigate Betty through a sky filled with treacherous clouds. The difficulty increases with time, adding new phases with unique obstacles. Your objective is to help Betty dodge clouds for as long as possible while collecting friendly seahorses to boost her health and extend gameplay.
+## Features
 
-## Game Features:
-- Progressive difficulty with time
-- Collectible seahorses for health recovery
-- Score tracking and high score system
+- **Dynamic Difficulty**: The game increases in complexity with three unique phases—normal, rain, and thunder—each adding new challenges.
+- **Health Boosts**: Collect seahorses to extend gameplay and increase Betty's health.
+- **High Score Tracking**: Compete against yourself and others to achieve the highest score possible.
 
 ## Installation Instructions
 
-To start helping Betty dodge the clouds, follow these steps:
+### Prerequisites
 
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/LW068/Bettys-Cloud-Dodger.git
-   cd Bettys-Cloud-Dodger
-2. **Install Pygame:**
-   Ensure you have Python installed on your system, then run:
-   pip install pygame
-3. **Run the Game:**
-   Start the game by executing the main game script:
-   python main.py
+Ensure you have Python and Pygame installed on your system. If not, follow the links below:
+- [Install Python](https://www.python.org/downloads/)
+- [Install Pygame](https://www.pygame.org/wiki/GettingStarted)
 
-## Make sure to navigate to the project directory before running the game.
+### Clone the Repository
+``git clone https://github.com/MicoBledsoe/Bettys-Cloud-Dodger.git``
+``cd Bettys-Cloud-Dodger``
 
 
-### Part 3: Controls and Gameplay
-#```markdown
-## Controls
+### Run the Game
+Execute the main game script to start helping Betty dodge those clouds:
+``python main.py``
 
-- **Start the Game:** Use the mouse to click on "PRESS START."
-- **Movement:** Use the left and right arrow keys to move Betty left and right across the screen.
-- **Restart:** Click "PLAY AGAIN" after a game over to restart the game.
+<div align="center">
+  <p><em>Make sure to navigate to the project directory before running the game.</em></p>
+</div>
 
-## Gameplay
+## Controls and Gameplay
 
-- **Avoid the Clouds:** Dodge falling clouds that appear randomly from the top of the screen.
-- **Collect Seahorses:** Look for seahorses that periodically appear; these will increase Betty's health, allowing her to survive longer.
-- **Scoring:** The longer you help Betty dodge clouds, the higher your score will be.
+### Controls
+
+- **Start the Game**: Click on ``"PRESS START"`` with your mouse.
+- **Movement**: Use the left and right arrow keys to move Betty across the screen.
+- **Restart**: After a game over, click ``"PLAY AGAIN"`` to restart the game.
+
+### Gameplay
+
+- **Avoid the Clouds**: Dodge clouds that fall randomly from the top of the screen.
+- **Collect Seahorses**: Keep an eye out for seahorses that appear periodically. These will increase Betty's health and help her survive longer.
+- **Scoring**: The longer you help Betty dodge clouds, the higher your score will be.
+
+## Development Challenges and Insights
+
+Developing **Betty's Cloud Dodger** involved several challenging aspects, including:
+
+- **Game Design**: Crafting a game that is easy to pick up but hard to master required careful balancing.
+- **Performance Optimization**: Ensuring the game runs smoothly on all target systems involved numerous optimizations.
+- **Art and Sound Integration**: Creating an immersive experience by integrating graphics and sound effectively.
+
+### Lessons Learned
+
+- **Effective Problem-Solving**: Breaking down complex problems into smaller, manageable tasks.
+- **Python Proficiency**: Enhancing my Python skills, particularly in using libraries like Pygame.
+- **Creativity in Code**: Learning to think creatively to implement game mechanics and UI/UX design.
+
+## Future Improvements
+
+- **New Levels**: Introduce new environments and obstacles to keep the game exciting.
+- **Mobile Compatibility**: Adapt the game for mobile devices for on-the-go gaming.
 
 ## Collaborators
 
-- **Mico Bledsoe** - [Github Profile](https://github.com/MicoBledsoe)
-- **Dennis Agbemenu** - [Github Profile](https://github.com/DennisAgbemenu)
-- **Ricardo Corona** - [Github Profile](https://github.com/RicardoCorona)
-
-This project is a collaborative effort to create an engaging game that provides both challenge and fun. Each contributor has brought unique skills and creativity to the development of Betty's Cloud Dodger.
+- **Mico Bledsoe** - [GitHub Profile](https://github.com/MicoBledsoe) | [LinkedIn Profile](www.linkedin.com/in/micobledsoe)
+- **Dennis Agbemenu** - [GitHub Profile](https://github.com/DennisAgbemenu) | [LinkedIn Profile](https://www.linkedin.com/in/dennisagbemenu/)
+- **Ricardo Corona** - [GitHub Profile](https://github.com/RicardoCorona) | [LinkedIn Profile](https://www.linkedin.com/in/ricardocrna/)
