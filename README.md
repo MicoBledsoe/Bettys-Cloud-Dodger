@@ -72,3 +72,9 @@ Developing **Betty's Cloud Dodger** involved several challenging aspects, includ
 - **Mico Bledsoe** - [GitHub Profile](https://github.com/MicoBledsoe) | [LinkedIn Profile](www.linkedin.com/in/micobledsoe)
 - **Dennis Agbemenu** - [GitHub Profile](https://github.com/DennisAgbemenu) | [LinkedIn Profile](https://www.linkedin.com/in/dennisagbemenu/)
 - **Ricardo Corona** - [GitHub Profile](https://github.com/RicardoCorona) | [LinkedIn Profile](https://www.linkedin.com/in/ricardocrna/)
+
+## About the Developer
+
+Hello, I'm Mico Bledsoe, currently completing my ARVR Engineering program at the Atlas School of Computer Science. As I navigate through an intense ARVR (Augmented Reality and Virtual Reality) curriculum, I've focused primarily on the implementation of core mechanics in our projects, steering clear of visuals and audio to concentrate on crafting robust, dynamic functionalities. My role in developing **Betty's Cloud Dodger** involved diving deep into game mechanics, ensuring a seamless and engaging user experience. With a background enriched with customer service, I bring a unique blend of empathy and problem-solving skills to the tech table. I am passionate about using technology to improve lives and am looking forward to contributing to a team that values community service as much as I do. Check out more of my work and connect with me through [LinkedIn](https://www.linkedin.com/in/micobledsoe)
+
+
