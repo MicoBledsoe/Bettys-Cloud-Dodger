@@ -70,7 +70,7 @@ Developing **Betty's Cloud Dodger** involved several challenging aspects, includ
 ## Collaborators
 
 - **Mico Bledsoe** - [GitHub Profile](https://github.com/MicoBledsoe) | [LinkedIn Profile](https://www.linkedin.com/in/micobledsoe)
-- **Dennis Agbemenu** - [GitHub Profile](https://github.com/DennisAgbemenu) | [LinkedIn Profile](https://www.linkedin.com/in/dennisagbemenu/)
+- **Dennis Agbemenu** - [GitHub Profile](https://github.com/dagbeme1) | [LinkedIn Profile](https://www.linkedin.com/in/dennisagbemenu/)
 - **Ricardo Corona** - [GitHub Profile](https://github.com/LW068) | [LinkedIn Profile](https://www.linkedin.com/in/ricardocrna/)
 
 ## About the Developer
